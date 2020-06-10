@@ -1,3 +1,3 @@
 # UCI_Session3
 In class testing of github
-Typing stuff here to test adding code.
+Uploaded the Excel and Word files for the Excel Homework.
